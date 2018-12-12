@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:practice/ui/home/Main.dart';
+import 'package:practice/config/CommonConfig.dart';
 
 void main() => runApp(RunApp());
 

@@ -53,7 +53,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     child: CircleAvatar(
                       radius: 40,
                       child: Image.asset(
-                        'assets/ic_head.png',
+                        'assets/icon/ic_head.png',
                         width: 150,
                         height: 150,
                       ),

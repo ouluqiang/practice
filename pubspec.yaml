@@ -68,6 +68,8 @@ flutter:
   # see https://flutter.io/custom-fonts/#from-packages
   assets:
     - assets/
+    - assets/icon/
+    - assets/icon/ic_head.png
 #    - assets/2.0x/
 #    - assets/3.0x/
 #    - assets/2.0x/ic_head.png
